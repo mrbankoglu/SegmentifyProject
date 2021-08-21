@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Size Özel"
+    },
+    {
+        "id":2,
+        "name": "Yapı Market & Tamirat > Tamir, Tadilat Gereçleri"
+    },
+    {
+        "id":3,
+        "name":"Ev, Dekorasyon, Bahçe > Mobilya"
+    },
+    {
+        "id":4,
+        "name":"Kozmetik & Kişisel Bakım > Sağlık, Medikal"
+    },
+    {
+        "id":5,
+        "name":"Bilgisayar, Tablet > Dizüstü Bilgisayar (Laptop)"
+    },
+    {
+        "id":6,
+        "name":"Beyaz Eşya & Küçük Ev Aletleri > Isıtma, Soğutma Sistemi"
+    },
+    {
+        "id":1,
+        "name":"Size Özel"
+    }    
+]
